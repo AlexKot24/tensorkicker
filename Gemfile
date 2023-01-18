@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-ruby '2.4.2'
+ruby '3.0.4'
 
 # wellknown
 gem 'breakpoint'
